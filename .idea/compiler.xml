@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eason-admin-interface" />
+        <module name="eason-admin-service" />
+        <module name="eason-admin-web" />
+        <module name="eason-cas-interface" />
+        <module name="eason-cas-service" />
+        <module name="eason-cas-web" />
+        <module name="eason-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eason-activemq" target="1.5" />
+      <module name="eason-admin" target="1.8" />
+      <module name="eason-admin-dao" target="1.8" />
+      <module name="eason-admin-interface" target="1.8" />
+      <module name="eason-admin-pojo" target="1.8" />
+      <module name="eason-admin-service" target="1.8" />
+      <module name="eason-admin-web" target="1.8" />
+      <module name="eason-cart" target="1.5" />
+      <module name="eason-cas" target="1.8" />
+      <module name="eason-cas-interface" target="1.8" />
+      <module name="eason-cas-service" target="1.8" />
+      <module name="eason-cas-web" target="1.8" />
+      <module name="eason-common" target="1.8" />
+      <module name="eason-order" target="1.5" />
+      <module name="eason-parent" target="1.8" />
+      <module name="eason-search" target="1.5" />
+      <module name="eason-servicer" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../eason-activemq" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-admin-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-admin/eason-admin-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-cart" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-cas" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-cas-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-order" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-search" />
+    <file type="web" url="file://$PROJECT_DIR$/../eason-servicer" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../eason-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../eason-admin-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../eason-cas/pom.xml" />
+        <option value="$PROJECT_DIR$/../eason-cas-web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../eason-cas/eason-cas-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../eason-cas/eason-cas-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

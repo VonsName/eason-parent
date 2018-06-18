@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eason-servicer:war">
+    <output-path>$PROJECT_DIR$/../eason-servicer/target</output-path>
+    <root id="archive" name="eason-servicer.war">
+      <element id="artifact" artifact-name="eason-servicer:war exploded" />
+    </root>
+  </artifact>
+</component>

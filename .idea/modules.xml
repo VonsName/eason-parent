@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../eason-admin/eason-admin.iml" filepath="$PROJECT_DIR$/../eason-admin/eason-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-admin/eason-admin-interface/eason-admin-interface.iml" filepath="$PROJECT_DIR$/../eason-admin/eason-admin-interface/eason-admin-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-admin/eason-admin-service/eason-admin-service.iml" filepath="$PROJECT_DIR$/../eason-admin/eason-admin-service/eason-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-admin-web/eason-admin-web.iml" filepath="$PROJECT_DIR$/../eason-admin-web/eason-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-cas/eason-cas.iml" filepath="$PROJECT_DIR$/../eason-cas/eason-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-cas/eason-cas-interface/eason-cas-interface.iml" filepath="$PROJECT_DIR$/../eason-cas/eason-cas-interface/eason-cas-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-cas/eason-cas-service/eason-cas-service.iml" filepath="$PROJECT_DIR$/../eason-cas/eason-cas-service/eason-cas-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-cas-web/eason-cas-web.iml" filepath="$PROJECT_DIR$/../eason-cas-web/eason-cas-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eason-common/eason-common.iml" filepath="$PROJECT_DIR$/../eason-common/eason-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eason-parent.iml" filepath="$PROJECT_DIR$/eason-parent.iml" />
+    </modules>
+  </component>
+</project>
